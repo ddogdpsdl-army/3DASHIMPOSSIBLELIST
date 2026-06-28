@@ -1,18 +1,13 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 56,
+    "id": 16110,
+    "name": "666",
+    "author": "Monstrosity",
+    "creators": ["Monstrosity"],
+    "verifier": "N/A",
+    "verification": "https://www.youtube.com/watch?v=qsayY4DtV4U",
+    "percentToQualify": 0,
     "password": "Not Copyable",
     "records": [
-        {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
-        }
+        
     ]
 }
